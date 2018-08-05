@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="button">Button</string>
+    <string name="enter_amount_in_dollars">Enter amount in dollars</string>
+    <string name="convert_to_inr">CONVERT TO INR</string>
+    <string name="todo">TODO</string>
+</resources>
